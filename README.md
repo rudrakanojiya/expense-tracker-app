@@ -32,6 +32,12 @@ A simple and responsive Expense Tracker built using React.js. This project helps
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](https://github.com/rudrakanojiya/expense-tracker-app/blob/main/App-Interface.jpg)
+
+
 ## Getting Started
 
 ### Prerequisites
